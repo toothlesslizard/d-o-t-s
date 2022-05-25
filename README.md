@@ -1,3 +1,3 @@
 # d-o-t-s
-set of configs
-⚔️
+⚔️ set of configs
+
